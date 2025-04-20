@@ -1,0 +1,23 @@
+
+BEAR HABITAT
+BE01; Yogi; birth date: 2018-03-21; brown color; male; 320.0 pounds; from Alaska Zoo, Alaska; arrived 2025-04-06
+BE02; Smokey; birth date: 2000-03-21; black color; female; 425.0 pounds; from Woodland park Zoo, Washington; arrived 2025-04-06
+BE03; Paddington; birth date: 2021-09-21; black color; female; 355.0 pounds; from Woodland park Zoo, Washington; arrived 2025-04-06
+BE04; Lippy; birth date: 2021-03-21; brown color; male; 405.0 pounds; from Alaska Zoo, Alaska; arrived 2025-04-06
+
+HYENA HABITAT
+HY01; Shenzi; birth date: 2021-03-21; tan color; female; 70.0 pounds; from Friguia Park, Tunisia; arrived 2025-04-06
+HY02; Banzai; birth date: 2013-09-21; brown color; male; 150.0 pounds; from Friguia Park, Tunisia; arrived 2025-04-06
+HY03; Ed; birth date: 2021-03-21; black color; male; 120.0 pounds; from Friguia Park, Tunisia; arrived 2025-04-06
+
+LION HABITAT
+LI01; Scar; birth date: 2019-03-21; tan color; female; 300.0 pounds; from Zanzibar, Tanzania; arrived 2025-04-06
+LI02; Mufasa; birth date: 2013-12-21; dark tan color; female; 375.0 pounds; from KopeLion, Tanzania; arrived 2025-04-06
+LI03; Simba; birth date: 2003-09-21; golden color; male; 450.0 pounds; from Zanzibar, Tanzania; arrived 2025-04-06
+LI04; Kiara; birth date: 2021-03-21; tan and brown color; female; 275.0 pounds; from KopeLion, Tanzania; arrived 2025-04-06
+
+TIGER HABITAT
+TI01; Tony; birth date: 2023-03-21; gold and tan stripes color; male; 270.0 pounds; from Dhaka, Bangladesh; arrived 2025-04-06
+TI02; Tigger; birth date: 2021-03-21; black stripes color; female; 400.0 pounds; from Dhaka, Bangladesh; arrived 2025-04-06
+TI03; Amber; birth date: 2007-09-21; gold and tan color; male; 300.0 pounds; from Bardia, Nepal; arrived 2025-04-06
+TI04; Cosimia; birth date: 2022-03-21; black stripes color; female; 285.0 pounds; from Bardia, Nepal; arrived 2025-04-06
